@@ -1,0 +1,12 @@
+
+*{
+  background-color: #00539CFF;
+  color: #EEA47FFF;
+}
+
+.title{
+  display: flex;
+  justify-content: center;
+  font-size: 2em;
+  
+}

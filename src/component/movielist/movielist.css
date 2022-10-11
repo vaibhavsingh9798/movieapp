@@ -1,0 +1,51 @@
+.movie-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    background-color: #00539CFF;
+    color: #EEA47FFF;
+    max-width: 100vw;
+    gap: 1em;
+}
+ .serach{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3em;
+ }
+ .serach select{
+    background-color: #FBEAEB;
+    color: rgb(82, 79, 79);
+    font-weight:500;
+    margin-right: -1em;
+    font-weight: 700;
+ }
+
+ .serach input{
+    width: 25em;
+    height: 3em;
+    background-color: #FBEAEB;
+    color: rgb(82, 79, 79);
+    font-weight: 800;
+ }
+ .serach button{
+    background-color: rgb(82, 79, 79);
+    color: #FBEAEB;
+    font-weight: 900; 
+ }
+ .serach button:hover  {
+    background-color: black;
+ }
+
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+.movie-container h3{
+   display: flex;
+   justify-content: center;
+   justify-content: center;
+  width: 100vw;
+   font-size: 2em;
+ 
+}

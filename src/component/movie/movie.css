@@ -1,0 +1,31 @@
+.single-container{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    max-width: 100vw;
+    background-color: #00539CFF;
+}
+.single-container .movie{
+    display: grid;
+   height: 35em;
+   width:  35em;
+   background-color: #005f9fFF;
+ 
+}
+.single-container .movie img{
+    height: 25em; 
+    width: 35em;
+   
+   
+}
+.movie .movie-details{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#005f9fFF;
+    font-size: 1em;
+    padding-top: -5em;
+    font-weight: 700;
+   padding-left: 1.5em;
+    color:whitesmoke;
+}

@@ -1,0 +1,27 @@
+/* 
+.item .details{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    
+} */
+ .item{
+    background-color: #005f9fFF;
+    height: 20em;
+    width: 15em;
+}
+ .item img{
+    height: 15em;
+    width: 15em;
+    background-color: blanchedalmond;
+}
+.item .item-details{
+    background-color: #005f9fFF;
+    padding-top: 0.5em;
+    font-weight: 700;
+    font-size: 1em;
+    padding-left: 1.5em;
+    color:whitesmoke;
+    text-decoration: none !important;
+
+}
